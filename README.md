@@ -7,7 +7,7 @@ This website allows you to create as many Pacman as you want and let you move th
 
 ![image](https://user-images.githubusercontent.com/101306063/171070330-a455c708-8847-4fd7-a53e-4f1a2df58fe7.png)
 
-##Future improvements
+## Future Improvents
 [.]add css style
 
 ## License
